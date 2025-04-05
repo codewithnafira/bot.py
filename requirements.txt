@@ -1,0 +1,6 @@
+python-telegram-bot==21.0
+pytz
+requests
+python-dotenv
+schedule
+aiohttp
