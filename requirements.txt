@@ -1,6 +1,6 @@
-python-telegram-bot==21.0
-pytz
-requests
-python-dotenv
-schedule
-aiohttp
+python-telegram-bot==20.3
+redis==4.5.5
+python-dotenv==1.0.0
+PyYAML==6.0.1
+psutil==5.9.5
+loguru==0.7.0
