@@ -25,7 +25,7 @@ from telegram.error import TelegramError
 import redis
 
 # Configuration
-BOT_TOKEN = os.getenv('BOT_TOKEN') or "YOUR_BOT_TOKEN_HERE"  # Better to use environment variables
+BOT_TOKEN = os.getenv('BOT_TOKEN') or "7715194430:AAGme7w7uXVPD42E6bHvJL1FlILxrMvbM0Y"  # Better to use environment variables
 REDIS_URL = os.getenv('REDIS_URL') or "redis://localhost:6379/0"
 MAX_WARNINGS = 3
 CAPTCHA_ENABLED = True  # Set to False if you don't want captcha verification
